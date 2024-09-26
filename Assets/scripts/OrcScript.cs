@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class ElfScript : EnemyBase
 {
-    private void Start()
+   /* public override void AttackPlayer()
     {
-        AttackPlayer();
-    }
+        print("Elf is attacking player");
+    } */
 }
